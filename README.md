@@ -33,12 +33,14 @@ Frontend becerilerimi geliştirmek ve Bootstrap bileşenlerini aktif kullanmak a
 ├── Gift.css
 ├── Gift.html
 ├── mainpage.html
+├── mainpagestyle.css
+├── rewards.css
+├── rewards.html
+└── README.md
+
+
 
 ## 🎁 Gift Sayfası
 
 ![Gift Page](fotolar/bulk-gift-cards.jpg)
 
-├── mainpagestyle.css
-├── rewards.css
-├── rewards.html
-└── README.md
