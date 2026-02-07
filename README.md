@@ -40,4 +40,7 @@ Frontend becerilerimi geliştirmek ve Bootstrap bileşenlerini aktif kullanmak a
 ```
 
 
-![Gift Page](fotolar/bulk-gift-cards.jpg)
+<p align="center">
+  <img src="fotolar/bulk-gift-cards.jpg" width="800" />
+</p>
+
