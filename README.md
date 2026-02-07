@@ -41,6 +41,6 @@ Frontend becerilerimi geliştirmek ve Bootstrap bileşenlerini aktif kullanmak a
 
 
 <p align="center">
-  <img src="fotolar/bulk-gift-cards.jpg" width="800" />
+  <img src="fotolar/bulk-gift-cards.jpg" style="max-width:100%; height:auto;" />
 </p>
 
