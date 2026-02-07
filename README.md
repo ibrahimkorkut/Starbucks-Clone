@@ -38,5 +38,12 @@ Frontend becerilerimi geliştirmek ve Bootstrap bileşenlerini aktif kullanmak a
 ├── rewards.html
 └── README.md
 
+## 📸 Ekran Görüntüleri
+
+<p align="center">
+  <img src="screenshots/mainpage.png" width="32%" />
+  <img src="screenshots/Gift.png" width="32%" />
+  <img src="screenshots/rewards.png" width="32%" />
+</p>
 
 
