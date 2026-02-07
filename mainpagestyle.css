@@ -1,0 +1,79 @@
+.join-buton {
+
+    background-color: black;
+}
+
+
+#caramel {
+
+    height: 420px;
+}
+
+#pistachiodiv{
+color: #006342;
+background-color: #F5F1EB;
+
+
+}
+
+#pistachioa{
+border-color: #006342;
+color: #006342;
+
+}
+
+
+
+#pistachio {
+ 
+    height: 400px;
+}
+
+
+
+.coffee-bar {
+    font-size: 20px;
+    background-color: #32462F;
+    
+    min-height: 120px;
+}
+.carameldiv {
+    color: white;
+    background-color: #006342;
+}
+
+.carameldiv a {
+
+color: white;
+border-color: white;
+}
+#icon {
+
+    max-height: 30px;
+}
+
+
+#freecoffee {
+
+height: 400px;
+
+}
+
+#freecoffeediv {
+color: #5F4633;
+background-color: #F7F0E4;
+
+}
+
+.footer-link {
+    text-decoration: none;
+    color: rgba(0,0,0,0.87);
+    font-size: 0.95rem;
+    transition: color 0.2s;
+}
+
+.footer-link:hover {
+    color: #1e1e1e;
+    text-decoration: underline;
+}
+
