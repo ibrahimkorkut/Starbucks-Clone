@@ -19,8 +19,6 @@ Frontend becerilerimi geliştirmek ve Bootstrap bileşenlerini aktif kullanmak a
 - 🏠 **Ana Sayfa** → `mainpage.html`
 - 🎁 **Gift Sayfası** → `Gift.html`
 - ⭐ **Rewards Sayfası** → `rewards.html`
-![Gift Page](fotolar/bulk-gift-cards.jpg)
-
 ```md
 ## 📂 Proje Yapısı
 
@@ -39,3 +37,4 @@ Frontend becerilerimi geliştirmek ve Bootstrap bileşenlerini aktif kullanmak a
 └── README.md
 
 
+![Gift Page](fotolar/bulk-gift-cards.jpg)
