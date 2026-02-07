@@ -37,3 +37,15 @@ Frontend becerilerimi geliştirmek ve Bootstrap bileşenlerini aktif kullanmak a
 ├── rewards.css
 ├── rewards.html
 └── README.md
+
+
+## 📸 Ekran Görüntüleri
+
+### 🏠 Ana Sayfa
+![Ana Sayfa](screenshots/mainpage.png)
+
+### 🎁 Gift Sayfası
+![Gift](screenshots/Gift.png)
+
+### ⭐ Rewards Sayfası
+![Rewards](screenshots/rewards.png)
