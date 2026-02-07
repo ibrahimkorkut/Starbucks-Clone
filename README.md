@@ -1,0 +1,51 @@
+# ☕ Starbucks Bootstrap Web Projesi
+
+Bootstrap kullanılarak geliştirilmiş, Starbucks temasından ilham alan responsive bir web arayüzü projesidir.  
+Frontend becerilerimi geliştirmek ve Bootstrap bileşenlerini aktif kullanmak amacıyla hazırlanmıştır.
+
+---
+
+## 🚀 Kullanılan Teknolojiler
+
+- 🌐 HTML5
+- 🎨 CSS3
+- 🧩 Bootstrap
+- 📱 Responsive Web Design
+
+---
+
+## 📸 Sayfalar
+
+- 🏠 **Ana Sayfa** → `mainpage.html`
+- 🎁 **Gift Sayfası** → `Gift.html`
+- ⭐ **Rewards Sayfası** → `rewards.html`
+
+---
+
+## 📂 Proje Yapısı
+
+```text
+├── .git/
+├── fotolar/
+│   └── (site görselleri)
+├── bootstrap.css
+├── bootstrap.js
+├── Gift.css
+├── Gift.html
+├── mainpage.html
+├── mainpagestyle.css
+├── rewards.css
+├── rewards.html
+└── README.md
+
+
+## 📸 Ekran Görüntüleri
+
+### 🏠 Ana Sayfa
+![Ana Sayfa](screenshots/mainpage.png)
+
+### 🎁 Gift Sayfası
+![Gift](screenshots/Gift.png)
+
+### ⭐ Rewards Sayfası
+![Rewards](screenshots/rewards.png)
