@@ -25,9 +25,10 @@ Frontend becerilerimi geliştirmek ve Bootstrap bileşenlerini aktif kullanmak a
 ## 📂 Proje Yapısı
 
 ```text
-├── .git/
+├── screenshots/
+│   └── (Sayfaların tam boyut görselleri)
 ├── fotolar/
-│   └── (site görselleri)
+│   └── (Site içerisinde kullandığum görseller)
 ├── bootstrap.css
 ├── bootstrap.js
 ├── Gift.css
